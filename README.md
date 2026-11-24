@@ -2,6 +2,8 @@
 
 An offline-first **Document Intelligence & Hybrid RAG Workbench** built with React, TypeScript, and Vite. DocIntel combines Okapi BM25 lexical scoring, L2-normalized TF-IDF cosine similarity, and weighted Reciprocal Rank Fusion (RRF) with verifiable character-offset citation binding and an inspectable 3-pane editorial interface.
 
+![DocIntel 3-Pane Hybrid RAG Workbench](./docs/screenshot-desktop.png)
+
 ## Architecture
 
 ```mermaid
